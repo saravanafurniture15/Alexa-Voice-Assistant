@@ -1,0 +1,7 @@
+{
+  "name": "Alexa Voice Assistant",
+  "description": "A mobile-first voice assistant powered by the Gemini API. It features real-time voice conversation, transcription, and can be activated from a simulated lock screen.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
